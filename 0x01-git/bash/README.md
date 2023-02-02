@@ -1,1 +1,1 @@
-Coding fury road
+empty project directory containing only a README
