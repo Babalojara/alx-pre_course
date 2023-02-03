@@ -1,2 +1,1 @@
-#!/bin/bash 
-git chckout master
+mkdir up_to_date
